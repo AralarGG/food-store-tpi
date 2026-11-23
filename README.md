@@ -4,7 +4,7 @@ Trabajo Práctico Integrador de Programación 4. Aplicación web para un negocio
 
 - Alumno: Santiago Raúl Salinas
 - Repositorio: https://github.com/AralarGG/food-store-tpi
-- Video de demostración: (pegar acá el link público del video)
+- Video de demostración: https://youtu.be/xY0RtOfo48c
 
 ## Tecnologías
 
